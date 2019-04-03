@@ -26,13 +26,7 @@
 <h3 align="center">Installation</h3>
 
 <p align="center">
-wget -O AutoScriptDeb8 https://git.io/fjIPd
-  </p>
-  <p align="center">
-  chmod +x AutoScriptDeb8
-  </p>
-  <p align="center">
-  ./AutoScriptDeb8
+wget https://raw.githubusercontent.com/johndesu090/AutoScriptDeb8/master/AutoScriptDebian && chmod +x AutoScriptDebian && ./AutoScriptDebian
 </p>
 
 <h3 align="center">Screenshots</h3>
