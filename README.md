@@ -26,7 +26,7 @@
 <h3 align="center">Installation</h3>
 
 <p align="center">
-wget -O AutoScriptVPS scriptrawlinkhere
+wget -O AutoScriptVPS https://git.io/fjIPd
   </p>
   <p align="center">
   chmod +x AutoScriptDeb8
