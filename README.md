@@ -37,14 +37,14 @@ wget -O AutoScriptDeb8 https://git.io/fjIPd
 
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://github.com/Dreyannz/AutoScriptVPS/raw/master/Files/Screenshots/1.JPG">
+<img src="https://github.com/johndesu090/AutoScriptDeb8/raw/master/Snapshots/main.png">
    </p>
   <p align="center">
-  <img src="https://github.com/Dreyannz/AutoScriptVPS/raw/master/Files/Screenshots/2.JPG">
+  <img src="https://github.com/johndesu090/AutoScriptDeb8/raw/master/Snapshots/1.png">
    </p>
   <p align="center">
-  <img src="https://github.com/Dreyannz/AutoScriptVPS/raw/master/Files/Screenshots/3.JPG">
+  <img src="https://github.com/johndesu090/AutoScriptDeb8/raw/master/Snapshots/2.png">
   </p>
   <p align="center">
-  <img src="https://github.com/Dreyannz/AutoScriptVPS/raw/master/Files/Screenshots/4.JPG">
+  <img src="https://github.com/johndesu090/AutoScriptDeb8/raw/master/Snapshots/3.png">
    </p>
