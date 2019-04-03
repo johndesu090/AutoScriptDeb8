@@ -103,7 +103,19 @@ cp /etc/openvpn/easy-rsa/keys/ca.crt /etc/openvpn/ca.crt
 cd /etc/openvpn/
 wget "https://raw.githubusercontent.com/johndesu090/AutoScriptDeb8/master/Files/OpenVPN/server.conf"
 
-#Create OpenVPN Config
+# Create Stunnel Client Config
+cat > /home/vps/public_html/stunnel.conf <<-END
+
+client = yes
+debug = 6
+[openvpn]
+accept = 127.0.0.1:3306
+connect = $MYIP2:444
+TIMEOUTclose = 0
+verify = 0
+sni = m.facebook.com
+
+# Create OpenVPN Config
 cd
 mkdir -p /home/vps/public_html
 cd /home/vps/public_html/
@@ -118,8 +130,7 @@ echo '<ca>' >> /home/vps/public_html/clientssl.ovpn
 cat /etc/openvpn/ca.crt >> /home/vps/public_html/clientssl.ovpn
 echo '</ca>' >> /home/vps/public_html/clientssl.ovpn
 cd /home/vps/public_html/
-tar -czf /home/vps/public_html/openvpn.tar.gz client.ovpn clientssl.ovpn
-tar -czf /home/vps/public_html/client.tar.gz client.ovpn clientssl.ovpn
+tar -czf /home/vps/public_html/client.tar.gz client.ovpn clientssl.ovpn stunnel.conf
 cd
 
 # Restart OpenVPN
