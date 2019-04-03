@@ -29,10 +29,10 @@
 wget -O AutoScriptVPS "git.io link remove brackets"
   </p>
   <p align="center">
-  chmod +x AutoScript
+  chmod +x AutoScriptDeb8
   </p>
   <p align="center">
-  ./AutoScript
+  ./AutoScriptDeb8
 </p>
 
 <h3 align="center">Screenshots</h3>
