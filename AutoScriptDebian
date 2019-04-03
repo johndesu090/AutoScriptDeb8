@@ -125,8 +125,6 @@ cd
 
 # Restart OpenVPN
 /etc/init.d/openvpn restart
-service openvpn start
-service openvpn status
 
 # Setting USW
 apt-get install ufw
