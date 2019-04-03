@@ -26,8 +26,14 @@
 <h3 align="center">Installation</h3>
 
 <p align="center">
-wget "git io link" -O openvpn.sh && chmod 777 openvpn.sh && ./openvpn.sh
+wget -O AutoScriptVPS scriptrawlinkhere
   </p>
+  <p align="center">
+  chmod +x AutoScriptDeb8
+  </p>
+  <p align="center">
+  ./AutoScriptDeb8
+</p>
 
 <h3 align="center">Screenshots</h3>
 <p align="center">
