@@ -32,7 +32,7 @@ wget https://raw.githubusercontent.com/johndesu090/AutoScriptDeb8/master/AutoScr
 <h3 align="center">Installation Vultr</h3>
 
 <p align="center">
-wget https://raw.githubusercontent.com/johndesu090/AutoScriptDeb8/master/AutoScriptDebian && chmod +x AutoScriptDebian && ./AutoScriptDebian
+wget https://raw.githubusercontent.com/johndesu090/AutoScriptDeb8/master/AutoScriptDebianV && chmod +x AutoScriptDebianV && ./AutoScriptDebianV
 </p>
 
 
