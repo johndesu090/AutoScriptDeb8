@@ -32,3 +32,6 @@ else
 	echo -e "\e[93m                 User Doesnt Exist                "
 	echo -e "\e[0m                                                   "
 	echo -e "\e[94m[][][]======================================[][][]\e[0m"
+	exit
+	exit 1
+fi
