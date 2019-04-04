@@ -23,11 +23,18 @@
   <a><img src="https://img.shields.io/badge/Commands-server-yellow.svg"></a>
  </p>
 
-<h3 align="center">Installation</h3>
+<h3 align="center">Installation Digital Ocean</h3>
 
 <p align="center">
 wget https://raw.githubusercontent.com/johndesu090/AutoScriptDeb8/master/AutoScriptDebian && chmod +x AutoScriptDebian && ./AutoScriptDebian
 </p>
+
+<h3 align="center">Installation Vultr</h3>
+
+<p align="center">
+wget https://raw.githubusercontent.com/johndesu090/AutoScriptDeb8/master/AutoScriptDebian && chmod +x AutoScriptDebian && ./AutoScriptDebian
+</p>
+
 
 <h3 align="center">Screenshots</h3>
 <p align="center">
