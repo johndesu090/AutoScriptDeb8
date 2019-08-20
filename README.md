@@ -34,6 +34,12 @@ wget https://raw.githubusercontent.com/johndesu090/AutoScriptDeb8/master/AutoScr
 wget https://raw.githubusercontent.com/johndesu090/AutoScriptDeb8/master/AutoScriptDebianV && chmod +x AutoScriptDebianV && ./AutoScriptDebianV
 </p>
 
+<h3 align="center">OCS PANEL Installation</h3>
+
+<p align="center">
+wget https://raw.githubusercontent.com/johndesu090/AutoScriptDeb8/master/ocsdeb8.sh && chmod +x ocsdeb8.sh && ./ocsdeb8.sh
+</p>
+
 
 <h3 align="center">Screenshots</h3>
 <p align="center">
